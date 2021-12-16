@@ -1,6 +1,6 @@
 import axios from 'axios';
 
 export default axios.create({
-  baseURL: 'https://server.ylight.xyz',
+  baseURL: 'https://mystifying-hermann-551bd1.netlify.app',
   // baseURL: 'https://ylight.glitch.me',
 });
